@@ -1,0 +1,22 @@
+.panda-info-background{
+background-color: #FEEAE9;
+}
+.catagories-background{
+    background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+}
+.catagories-background-2{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+.catagories-background-3{
+    background: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+}
+.Categories img{
+  width: 100px;
+}
+.panda-btn-color{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 9px 25px;
+}
